@@ -5,6 +5,6 @@ public class Demo {
 		System.out.println("cambio 1 en rebase");
 		System.out.println("linea 2");
 		System.out.println("linea 3");
-		System.out.println("linea 4");
+		System.out.println("cambio 2 en rebase");
 	}
 }
